@@ -1,0 +1,2 @@
+
+Delighted to share my venture into a minimalist full-stack application, skillfully employing Next.js 14 for a polished UI, Go for backend robustness, and Docker/Docker Compose for a streamlined containerized workflow. This project served as a deliberate exploration, immersing myself in the intricacies of Docker, refining my workflow, and gaining invaluable insights into seamless deployment practices.
